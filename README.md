@@ -74,6 +74,28 @@ HTML • CSS • JavaScript • React.js
 
 ---
 
+## 💼 Internship Experience
+
+### 🏢 IIMSTC — Internship
+
+Worked on a **Crowd Monitoring System** during my internship at IIMSTC.
+
+### 👥 Crowd Monitoring System
+
+A computer vision-based system designed to monitor and analyze crowds using video/image processing techniques.
+
+**Key Features:**
+- Crowd detection and monitoring
+- People detection from video streams
+- Real-time crowd analysis
+- Video processing
+- Monitoring of crowd density
+
+**Technologies:**  
+Python • OpenCV • Computer Vision
+
+---
+
 ## 📖 Currently Learning
 
 ```text
