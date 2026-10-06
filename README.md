@@ -30,9 +30,6 @@ I'm an Information Science & Engineering graduate interested in software develop
 - Git
 - GitHub
 - VS Code
-- Streamlit
-- FastAPI
-- Plotly
 
 ### Database
 - MySQL
